@@ -1,6 +1,6 @@
 import uuid
 import hashlib
- 
+@Aashutosh Mallik
 def hash_password(password):
     # uuid is used to generate a random number
     salt = uuid.uuid4().hex
